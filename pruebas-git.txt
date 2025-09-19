@@ -1,5 +1,4 @@
-
 demo rama-2
 pruebas de git desde la rama 2
-hola x2
 Gherking
+Añadir nuevo campo

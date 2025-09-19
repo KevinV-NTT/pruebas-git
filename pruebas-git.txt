@@ -1,3 +1,4 @@
-demo rama 2, demo
-pruebas de git desde la rama 2
+demo rama 2, demo x2
+pruebas de git desde la rama nueva
 Gherking
+Añadir nuevo campo
